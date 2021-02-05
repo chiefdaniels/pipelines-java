@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/alcoduck/First/_apis/build/status/chiefdaniels.pipelines-java?branchName=master)](https://dev.azure.com/alcoduck/First/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
